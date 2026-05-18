@@ -29,8 +29,9 @@ This console application implements a user registration and login system for a C
 
 Youtube Link: https://youtu.be/b7zspo3BUe8?si=YdIqQJqSjIa5vpwq
 
-<img width="1365" height="767" alt="Screenshot 2026-04-14 154119" src="https://github.com/user-attachments/assets/9f6c18e0-e8c3-4042-8a2d-ee231b94f877" />
-<img width="1365" height="767" alt="Screenshot 2026-04-14 154006" src="https://github.com/user-attachments/assets/3faf7322-d646-4ee5-acbe-245f84db576a" />
-<img width="1363" height="304" alt="Screenshot 2026-04-13 193822" src="https://github.com/user-attachments/assets/44284a6b-4034-4764-84d1-7d29871c5199" />
-<img width="1365" height="767" alt="Screenshot 2026-04-13 193758" src="https://github.com/user-attachments/assets/cb0520c7-9cce-4503-acad-e63c759e9637" />
+<img width="1361" height="345" alt="Screenshot 2026-05-18 171518" src="https://github.com/user-attachments/assets/878a5bfa-3822-45f2-8bea-bf8c114a46a8" />
+<img width="1365" height="349" alt="Screenshot 2026-05-18 171506" src="https://github.com/user-attachments/assets/9cbd1fcd-0a52-44ba-85d2-8a930609464d" />
+<img width="1365" height="364" alt="Screenshot 2026-05-18 171452" src="https://github.com/user-attachments/assets/f992ad8b-07dc-4d86-bb01-94d97693946a" />
+<img width="1365" height="422" alt="Screenshot 2026-05-18 171413" src="https://github.com/user-attachments/assets/135461b2-ba29-43c8-bf3e-39f303485d46" />
+<img width="1352" height="344" alt="Screenshot 2026-05-18 171305" src="https://github.com/user-attachments/assets/e8a08257-08a3-48c9-8556-216dba7c3712" />
 
